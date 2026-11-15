@@ -1,0 +1,4 @@
+# Optional geospatial inspection dependencies. Use a dedicated Python environment.
+rasterio>=1.3,<2
+numpy>=1.26,<3
+pyproj>=3.6,<4

@@ -1,0 +1,4 @@
+# Optional supervised terrain-pattern recognition dependencies.
+-r requirements-geo.txt
+scikit-learn>=1.4,<2
+joblib>=1.3,<2

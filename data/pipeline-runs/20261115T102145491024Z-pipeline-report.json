@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0",
+  "pipeline": "terrascan-stage13",
+  "startedAt": "2026-11-15T10:21:45.490931+00:00",
+  "finishedAt": "2026-11-15T10:21:45.490948+00:00",
+  "jobCount": 0,
+  "succeeded": 0,
+  "failed": 0,
+  "results": [],
+  "policy": [
+    "No scientific measurements are fabricated.",
+    "All generated manifests remain pending human review.",
+    "No network access occurs unless --sync-api is supplied; this pipeline does not download files."
+  ]
+}
